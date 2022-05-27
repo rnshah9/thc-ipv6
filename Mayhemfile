@@ -1,0 +1,5 @@
+project: rnshah9/thc-ipv6
+target: thc-ipv6
+
+cmds:
+  - cmd: /repo/dnsdict6 -e a.com @@
