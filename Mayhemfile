@@ -2,4 +2,4 @@ project: thc-ipv6
 target: dnsdict6
 
 cmds:
-  - cmd: /repo/dnsdict6 -e a.com @@
+  - cmd: /install/usr/local/bin/dnsdict6 -e a.com @@
