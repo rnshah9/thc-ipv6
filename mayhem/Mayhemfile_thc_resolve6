@@ -1,0 +1,5 @@
+project: thc-ipv6
+target: thc-resolve6
+
+cmds:
+  - cmd: /fuzz_thc_resolve6

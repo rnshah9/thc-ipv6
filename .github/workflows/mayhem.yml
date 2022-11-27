@@ -51,7 +51,8 @@ jobs:
       fail-fast: false
       matrix:
         mayhemfile:
-          - mayhem/Mayhemfile
+          - mayhem/Mayhemfile_dnsdict6
+          - mayhem/Mayhemfile_thc_resolve6
 
     steps:
       - uses: actions/checkout@v2
